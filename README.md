@@ -3,7 +3,7 @@ Hallo?!
 
 ![Screenshot](helloWorldRStudioScreenshot.png?raw=true)
 
-Tolles Programm, welches "Hello World" ausgiebt.
+Tolles Programm, welches "Hello World" ausgibt.
 
 # Voraussetzungen:
 
