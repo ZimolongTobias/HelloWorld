@@ -3,7 +3,12 @@ Hallo?!
 
 ![Screenshot](helloWorldRStudioScreenshot.png?raw=true)
 
-Great program, which PRINTS "Hello World".
+Tolles Programm, welches "Hello World" ausgiebt.
 
-# How to use it
-Download helloWorld.R and then open it with your favorite (R-) Interpreter (RStudio is recommended).
+# Voraussetzungen:
+
+Es wird R sowie ein R-Interpreter benötigt. RStudio wird empfohlen.
+
+# Installation:
+
+Laden Sie helloWorld.R herunter und öffnen Sie es mit ihrem favorisierten (R-) Interpreter.
